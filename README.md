@@ -1,4 +1,4 @@
-# nathanaelnienaber.github.io R
+# nathanaelnienaber.github.io
 
 ## Description
 • Hello everyone! This is my portfolio for the course of the MIT xPRO Full-Stack Development certification program.
