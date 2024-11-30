@@ -1,5 +1,5 @@
 # _config.yml
-title: NN's Portfolio
+title: My Portfolio
 description: A showcase of my projects, skills, and contact information.
 author: Nathanael Nienaber
 
@@ -10,7 +10,6 @@ theme: jekyll-theme-slate
 # URL and Base Path
 # Remove `baseurl` if deploying on `username.github.io`
 url: https://nathanaelnienaber.github.io
-baseurl: ""
 
 # Markdown Processing
 markdown: kramdown
