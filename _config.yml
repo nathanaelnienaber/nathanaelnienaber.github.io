@@ -1,7 +1,38 @@
-theme: jekyll-theme-slate
-title: My Portfolio
-description: Welcome to my portfolio!
+# Site Information
+title: Nathanael Nienaber Portfolio
+description: A showcase of my projects, skills, and experience.
 author: Nathanael Nienaber
-include: [header.html]
-inclued: [defualt.html]
+
+# Theme
+theme: jekyll-theme-slate
+
+# URL and Base Path
+# Remove `baseurl` if deploying on `username.github.io`
+url: https://nathanaelnienaber.github.io
+baseurl: ""
+
+# Markdown Processing
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub-Flavored Markdown
+
+# Plugins (Optional)
+plugins:
+  - jekyll-feed  # Generates RSS feed
+  - jekyll-seo-tag  # Adds SEO metadata
+
+# Navigation Links (Optional)
+# You can use these in layouts for dynamic navigation
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
+
+# Output Options
+permalink: pretty
 
