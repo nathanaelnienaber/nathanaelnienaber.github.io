@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Portfolio
 
-Hi, I'm Nathanael Nienaber – a Product Manager. This site showcases my projects, skills, and contact information.
+Hi, I'm Nathanael Nienaber a Product Manager. This site showcases my projects, skills, and contact information.
 
 ## About Me
 As a versatile Principal Product Manager, I am committed to empowering designers and developers to excel in their

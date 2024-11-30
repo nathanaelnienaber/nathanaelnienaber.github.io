@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: My Portfolio
 description: Welcome to my portfolio!
-author: Your Name
+author: Nathanael Nienaber
 include: [header.html]
