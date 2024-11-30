@@ -1,10 +1,10 @@
-# Site Information
+# _config.yml
 title: Nathanael Nienaber Portfolio
-description: A showcase of my projects, skills, and experience.
+description: A showcase of my projects, skills, and contact information.
 author: Nathanael Nienaber
 
-# Themetheme: 
 theme: jekyll-theme-slate
+
 
 
 # URL and Base Path
