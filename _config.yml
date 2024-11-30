@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+title: My Portfolio
+description: Welcome to my portfolio!
+author: Your Name
+
+
+theme: jekyll-theme-slate
+title: My Portfolio
+description: Welcome to my portfolio!
+author: Your Name
+include: [header.html]
