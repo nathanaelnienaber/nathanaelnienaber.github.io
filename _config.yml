@@ -3,7 +3,8 @@ title: Nathanael Nienaber Portfolio
 description: A showcase of my projects, skills, and experience.
 author: Nathanael Nienaber
 
-# Theme
+# Themetheme: 
+jekyll-theme-slate
 
 
 # URL and Base Path
