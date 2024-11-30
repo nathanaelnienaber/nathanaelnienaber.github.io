@@ -16,11 +16,6 @@ markdown: kramdown
 kramdown:
   input: GFM  # GitHub-Flavored Markdown
 
-# Plugins (Optional)
-plugins:
-  - jekyll-feed  # Generates RSS feed
-  - jekyll-seo-tag  # Adds SEO metadata
-
 # Navigation Links (Optional)
 # You can use these in layouts for dynamic navigation
 nav_links:
