@@ -2,7 +2,7 @@ title: My Portfolio
 description: A showcase of my projects, skills, and contact information.
 author: Nathanael Nienaber
 
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
 
 # URL and Base Path
 url: https://nathanaelnienaber.github.io
