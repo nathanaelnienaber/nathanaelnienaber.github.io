@@ -17,7 +17,7 @@ nav_links:
   - title: Home
     url: /
   - title: About
-    url: /about    # Consistent with header.html
+    url: /about
   - title: Projects
     url: /projects
   - title: Contact
