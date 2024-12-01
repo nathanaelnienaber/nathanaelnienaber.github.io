@@ -1,14 +1,10 @@
-# _config.yml
 title: My Portfolio
 description: A showcase of my projects, skills, and contact information.
 author: Nathanael Nienaber
 
 theme: jekyll-theme-slate
 
-
-
 # URL and Base Path
-# Remove `baseurl` if deploying on `username.github.io`
 url: https://nathanaelnienaber.github.io
 
 # Markdown Processing
@@ -17,12 +13,11 @@ kramdown:
   input: GFM  # GitHub-Flavored Markdown
 
 # Navigation Links (Optional)
-# You can use these in layouts for dynamic navigation
 nav_links:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: /about    # Consistent with header.html
   - title: Projects
     url: /projects
   - title: Contact
